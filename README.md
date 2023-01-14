@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 📰**Web** Development📰
 
 [![HTML5](https://img.shields.io/badge/HTML5-97ca00?style=plastic&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![React](https://img.shields.io/badge/React-violet?style=plastic&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![React](https://img.shields.io/badge/React-violet?style=plastic&logo=react&logoColor=46F4FF)](https://reactjs.org)
 [![Redux](https://img.shields.io/badge/Redux-0043CA?style=plastic&logo=redux&logoColor=764ABC)](https://redux.js.org)
 [![jQuery](https://img.shields.io/badge/jQuery-yellowgreen?style=plastic&logo=jquery&logoColor=0769AD)](https://jquery.com)
 
