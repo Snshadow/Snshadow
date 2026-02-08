@@ -48,5 +48,3 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning...
 
   [![Unity](https://img.shields.io/badge/Unity-45cc22?style=plastic&logo=unity&logoColor=000000)](https://unity.com)
-  [![Angular](https://img.shields.io/badge/Angular-E9A300?style=plastic&logo=angular&logoColor=DD0031)](https://angular.io)
-  [![NextJS](https://img.shields.io/badge/Next.js-808080?style=plastic&logo=next.js&logoColor=000000)](https://nextjs.org)
