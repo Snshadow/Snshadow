@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/C-24CF7B?style=plastic&logo=c&logoColor=A8B9CC)
 [![C++](https://img.shields.io/badge/C++-97ca00?style=plastic&logo=cplusplus&logoColor=00599C)](https://cplusplus.com)
-[![C#](https://img.shields.io/badge/C%23-158BFF?style=plastic&logo=cshrp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp)
 [![Java](https://img.shields.io/badge/Java-FFA200?style=plastic&logo=openjdk&logoColor=00599C)](https://dev.java)
 [![Kotlin](https://img.shields.io/badge/Kotlin-BC0032?style=plastic&logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org)
 [![Python](https://img.shields.io/badge/Python-31F071?style=plastic&logo=python&logoColor=3776AB)](https://www.python.org)
